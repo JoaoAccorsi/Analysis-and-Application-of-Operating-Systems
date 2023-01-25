@@ -1,3 +1,9 @@
+/*
+Implement two processes that promote a task, collaboratively. A process must download pages from the Internet, for example, using the curl program. 
+The second process receives these pages and performs a parser to find the amount of a given word, for example using the egrep and wc programs. 
+The second program returns the number of occurrences for the first process.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
