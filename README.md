@@ -9,3 +9,8 @@ Some codes developed during the classes of Analysis and Application of Operating
 The description of each code is directly in the project.
 
 Some technologies used: 
+- Shell Script
+- Inter Process Communication (IPC)
+- Signals (SIGUSR2...)
+- Threads
+- MUTEX
